@@ -590,7 +590,7 @@ function App() {
               <div className="rounded-[1.75rem] border border-white/10 bg-slate-950/80 p-6">
                 <div className="space-y-5">
                   {[
-                    ['Email', 'bashirul@example.com', 'mailto:bashirul@example.com'],
+                    ['Email', 'bashir@shikder.com', 'mailto:bashir@shikder.com'],
                     ['LinkedIn', 'linkedin.com/in/bashirulshikder', 'https://www.linkedin.com'],
                     ['GitHub', 'github.com/bashirulshikder', 'https://github.com'],
                   ].map(([label, value, href]) => (
